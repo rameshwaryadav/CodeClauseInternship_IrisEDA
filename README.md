@@ -76,13 +76,13 @@ Each visualization helps to uncover patterns in the dataset:
 Below are the key visualizations generated during the EDA:
 
 ### 1️⃣ Pairplot - Feature Relationship
-![Pairplot](images/screenshot.jpg)
+![Pairplot](images/Screenshot.jpg)
 
 ### 2️⃣ Heatmap - Feature Correlation
-![Heatmap](images/screenshot.png)
+![Heatmap](images/Screenshot.png)
 
 ### 3️⃣ Histograms - Feature Distributions
-![Histograms](images/screenshot1.png)
+![Histograms](images/Screenshot1.png)
 
 ### 4️⃣ Boxplot - Feature Spread & Outliers
-![Boxplot](images/screenshot2.png)
+![Boxplot](images/Screenshot2.png)
